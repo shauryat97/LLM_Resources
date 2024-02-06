@@ -1,6 +1,10 @@
 Blogs:
+1. Enterprise RAG : https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system
+2. RAG Evaluation : https://srk.ai/blog/004-ai-llm-retrieval-eval-llamaindex
 
-
+Fine-tuning :
+1. Good Code Documentation : https://www.kaggle.com/code/lucamassaron/fine-tune-mistral-v0-2-for-sentiment-analysis
+2. Next token prediction : https://medium.com/@jeremyarancio/fine-tune-an-llm-on-your-personal-data-create-a-the-lord-of-the-rings-storyteller-6826dd614fa9
 
 Codes :
 
