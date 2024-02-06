@@ -7,7 +7,7 @@ Fine-tuning :
 2. Next token prediction : https://medium.com/@jeremyarancio/fine-tune-an-llm-on-your-personal-data-create-a-the-lord-of-the-rings-storyteller-6826dd614fa9
 
 Codes :
-
+1. Mistral7b RAG llamaindex : https://www.youtube.com/watch?v=1mH1BvBJCl0&t=381s&ab_channel=RitheshSreenivasan
 
 
 Papers :
