@@ -11,3 +11,7 @@ Codes :
 
 
 Papers :
+
+
+Videos:
+1. Advance RAG : https://www.youtube.com/watch?v=oDzWsynpOyI&ab_channel=HubelLabs
