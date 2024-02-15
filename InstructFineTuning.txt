@@ -1,0 +1,1 @@
+Good resource to start using Mistral 7b Locally : https://www.datacamp.com/tutorial/mistral-7b-tutorial
